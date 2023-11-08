@@ -10,4 +10,4 @@ The following is a basic website created with Python and using Flask.
 
 ## Step by Step Explanation
 
-[Link to  Video](https://www.youtube.com/watch?v=Epr7r6rPdP4&t=643s)
+[Link to  Video](https://www.youtube.com/watch?v=Epr7r6rPdP4)
